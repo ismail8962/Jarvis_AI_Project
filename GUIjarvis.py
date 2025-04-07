@@ -1,0 +1,1 @@
+# GUI code generated using PyQt5 (Your full code would be pasted here)
