@@ -19,4 +19,4 @@ Jarvis is a Python-based virtual desktop assistant developed using PyQt5 for GUI
 3. Run the script using `python main.py`.
 
 ## Developer
-- Developed by students of Trinity Polytechnic, Group 13.
+- Developed by students of poona college Shaikh Ismail, Group 13.
